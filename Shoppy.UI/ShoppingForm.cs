@@ -86,7 +86,6 @@ namespace Shoppy.UI
         }
         public void normalListViewFiller(ListView lv, List<string> labels)
         {
-            lv.Clear();
             lv.Items.Clear();
             foreach (var item in labels)
             {
@@ -251,6 +250,8 @@ namespace Shoppy.UI
             pnlSearch.BringToFront();
             Filter allProduct = new Filter();
             InitializeObjectListView(allProduct.SearchByWord(txtSearchBox.Text));
+            TradeMarks.Clear();
+            normalListViewFiller(lvTradeMarks, TradeMarks);
         }
 
         private void btnCategories_Click(object sender, EventArgs e)
@@ -337,6 +338,8 @@ namespace Shoppy.UI
             pnlSearch.BringToFront();
             Filter allProduct = new Filter();
             InitializeObjectListView(allProduct.SearchByWord(txtSearchBox.Text));
+            TradeMarks.Clear();
+            normalListViewFiller(lvTradeMarks, TradeMarks);
         }
 
         OrderDataAccess ODA = new OrderDataAccess();

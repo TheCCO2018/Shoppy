@@ -372,6 +372,7 @@
             // ratingProductDetail
             // 
             this.ratingProductDetail.BackColor = System.Drawing.Color.Transparent;
+            this.ratingProductDetail.Enabled = false;
             this.ratingProductDetail.ForeColor = System.Drawing.Color.Gold;
             this.ratingProductDetail.Location = new System.Drawing.Point(830, 55);
             this.ratingProductDetail.Name = "ratingProductDetail";

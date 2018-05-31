@@ -19,8 +19,8 @@ namespace Shoppy.DataAccess.Filtering
             get { return categoryName; }
             set
             {
-                GetItemsByCategory(value);
                 categoryName = value;
+                GetItemsByCategory(categoryName);
             }
         }
 
@@ -57,6 +57,13 @@ namespace Shoppy.DataAccess.Filtering
         {
             if(Products != null)
             {
+                foreach (var tree in Trees)
+                {
+                    if (tree.NumberOfNodes() != 0)
+                    {
+                        ClearItemsFromTheTree(tree);
+                    }
+                }
                 Products.Clear();
                 int CategoryID = new CategoryDataAccess().GetList().Where(x => x.Name == categoryName).ElementAtOrDefault(0).CategoryID;
 
@@ -77,7 +84,16 @@ namespace Shoppy.DataAccess.Filtering
                 tree.Add(Products[i]);
             }
         }
-
+        private void ClearItemsFromTheTree(BinarySearchTree tree)
+        {
+            foreach (var product in Products)
+            {
+                if(tree.NumberOfNodes() != 0)
+                {
+                    tree.Delete(product);
+                }
+            }
+        }
         public List<Product> FilterByName(string name)
         {
             Name = name;
@@ -208,9 +224,12 @@ namespace Shoppy.DataAccess.Filtering
                 if(tree is StringBST)
                 {
                     StringBST tempTree = (StringBST)tree;
-                    if (String.Compare(tempTree.GetTreeType(), type, true) == 0)
+                    if (tempTree.NumberOfNodes() == 0)
                     {
                         AddItemsToTheTree(tempTree);
+                    }
+                    if (String.Compare(tempTree.GetTreeType(), type, true) == 0)
+                    {
                         if (type == "TradeMark")
                         {
                             tempTree.InOrder();

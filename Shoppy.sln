@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoppy.UI", "Shoppy\Shoppy.UI.csproj", "{4790C11E-B22D-42EE-BDF0-59938B6FEE56}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShoppyBussines", "ShoppyBussines", "{7A9EED26-94A6-48FC-916F-D65B89FCB6BA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShoppyData", "ShoppyData", "{A91551E5-88D7-42C2-9796-4A9E4B09F953}"
@@ -21,16 +19,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShoppyDataStructure", "Shop
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShoppyUI", "ShoppyUI", "{A4279DF3-37B0-423E-B7C3-DB29B61D9F69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoppy.UI", "Shoppy.UI\Shoppy.UI.csproj", "{4790C11E-B22D-42EE-BDF0-59938B6FEE56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4790C11E-B22D-42EE-BDF0-59938B6FEE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4790C11E-B22D-42EE-BDF0-59938B6FEE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4790C11E-B22D-42EE-BDF0-59938B6FEE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4790C11E-B22D-42EE-BDF0-59938B6FEE56}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9754E7D8-A2CE-40B3-82B2-DA00C81ECF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9754E7D8-A2CE-40B3-82B2-DA00C81ECF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9754E7D8-A2CE-40B3-82B2-DA00C81ECF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -47,16 +43,20 @@ Global
 		{7946E11D-3847-4B85-BC76-CE15C662F8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7946E11D-3847-4B85-BC76-CE15C662F8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7946E11D-3847-4B85-BC76-CE15C662F8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4790C11E-B22D-42EE-BDF0-59938B6FEE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4790C11E-B22D-42EE-BDF0-59938B6FEE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4790C11E-B22D-42EE-BDF0-59938B6FEE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4790C11E-B22D-42EE-BDF0-59938B6FEE56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{4790C11E-B22D-42EE-BDF0-59938B6FEE56} = {A4279DF3-37B0-423E-B7C3-DB29B61D9F69}
 		{9754E7D8-A2CE-40B3-82B2-DA00C81ECF8B} = {A91551E5-88D7-42C2-9796-4A9E4B09F953}
 		{F531E059-0FDB-4275-853A-0BBCB47A8E6F} = {A91551E5-88D7-42C2-9796-4A9E4B09F953}
 		{3B2487F3-D30C-402F-81B9-41EC04179955} = {7A9EED26-94A6-48FC-916F-D65B89FCB6BA}
 		{7946E11D-3847-4B85-BC76-CE15C662F8A4} = {C3A54397-88A1-42EB-AF2E-43C751E73743}
+		{4790C11E-B22D-42EE-BDF0-59938B6FEE56} = {A4279DF3-37B0-423E-B7C3-DB29B61D9F69}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {522E6FA5-1F7E-45C0-88AE-050EEC5402B1}
