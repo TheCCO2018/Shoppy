@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy\bin\Debug\Shoppy.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy\bin\Debug\Shoppy.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy\bin\Debug\Shoppy.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy\obj\Debug\Shoppy.LoginForm.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy\obj\Debug\Shoppy.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy\obj\Debug\Shoppy.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy\obj\Debug\Shoppy.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy\obj\Debug\Shoppy.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy\obj\Debug\Shoppy.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy\obj\Debug\Shoppy.csprojResolveAssemblyReference.cache
