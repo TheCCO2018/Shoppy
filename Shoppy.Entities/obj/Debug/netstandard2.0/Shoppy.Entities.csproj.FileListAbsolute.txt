@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\bin\Debug\netstandard2.0\Shoppy.Entities.deps.json
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\bin\Debug\netstandard2.0\Shoppy.Entities.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\bin\Debug\netstandard2.0\Shoppy.Entities.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\obj\Debug\netstandard2.0\Shoppy.Entities.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\obj\Debug\netstandard2.0\Shoppy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\obj\Debug\netstandard2.0\Shoppy.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\obj\Debug\netstandard2.0\Shoppy.Entities.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\obj\Debug\netstandard2.0\Shoppy.Entities.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\SpecialSolutions\Shoppy\Shoppy.Entities\obj\Debug\netstandard2.0\Shoppy.Entities.pdb
