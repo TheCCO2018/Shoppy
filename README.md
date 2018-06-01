@@ -8,7 +8,7 @@ This project aims to get knowledge about Binary Search Trees, Heap Trees, Heap S
 
 Used techonlogies are listed below:
 
-    • .NET Framwork 4.7.1
+    • .NET Framework 4.7.1
 
     • Entity Framework 6
 
@@ -30,7 +30,7 @@ implementesi ve bu yapılara ait temel olaylarının tetiklenmesi ile bir indeks
 
 Bu projede kullanılan teknolojiler aşağıda listelenmiştir:
 
-    • .NET Framwork 4.7.1
+    • .NET Framework 4.7.1
 
     • Entity Framework 6
 
